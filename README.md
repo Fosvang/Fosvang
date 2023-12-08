@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python development
 - 🌱 I’m currently learning Python development at Jbrain academy
 - 💞️ I’m looking to collaborate on IoT api development especially on the LoRaWAN platform
+- I am working on Shelly products and Home assistant.
 - 📫 How to reach me cfovang@gmail.com
 
 <!---
